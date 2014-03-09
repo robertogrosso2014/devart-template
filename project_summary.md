@@ -1,12 +1,16 @@
-# Project Title
+# Feeling Good
 Insert the name of your project
 
 ## Authors
-- Insert main author name, surname, github account
-- Insert other author(s) name, surname, github account (one per list element)
+- Roberto Grosso, robertogrosso2014
+- Andrea Manzoni,robertogrosso2014
+- Melanie Moeller,robertogrosso2014
+- Francesca Errichiello, robertogrosso2014
+- Andrea Sportelli, robertogrosso2014
+- Matteo Buranello, robertogrosso2014
 
 ## Description
-Insert a description containing about 100 to 150 words, including your motivation and the meaning behind your idea and execution. The Judges will be keen to know how your idea pushes the boundaries of code and technology. 
+Feeling Good is a story. Not an ordinary story. You will see it divided in 3 moments in time, where the couple is more vulnerable. The viewer will pass through the installation powered by Kinect sensors that will define which sections to play and, by interacting with it, different parts of the story will be revealed. Love, lies, desperation, pride, satisfaction and relief are the nature of the installation.
 
 ## Link to Prototype
 NOTE: If your project lives online you can add one or more links here. Make sure you have a stable version of your project running before linking it.
